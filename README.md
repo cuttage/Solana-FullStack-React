@@ -6,11 +6,15 @@ The design hasn't been curated on purpose as I wanted to showcase the functional
 
 ## For it to work:
 
-- Download the Chrome extension of the Phantom wallet, create a new wallet and save the mnemonic when prompted.
-- Download the Solana CLI
-- Change the wallet network to devnet in settings
-- Airdrop yourself some SOL (max 2)
-  `solana airdrop 1 YOUR_PHANTOM_WALLET_ADDRESS -u devnet`
+-   Download the Chrome extension of the Phantom wallet, create a new wallet and save the mnemonic when prompted.
+-   Download the Solana CLI
+-   Change the wallet network to devnet in settings
+-   Airdrop yourself some SOL (max 2)
+    `solana airdrop 1 YOUR_PHANTOM_WALLET_ADDRESS -u devnet`
+
+## Available online at
+
+✅ Production: https://solana-full-stack-react.vercel.app
 
 ## Available Scripts
 
