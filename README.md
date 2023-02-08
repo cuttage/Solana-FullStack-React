@@ -2,6 +2,8 @@
 
 A web3 sample app based on the blockchain Solana. On the web3, every transaction has a cost to be approved from your wallet. You will be using fake funds (SOL) that you can airdrop to yourself.This app is not meant to do anything but show you a sample of a web3 app where you can connect your wallet on Solana devnet and write information to the blockchain. Remember, never share personal information or sensitive data when you post to the blockchain as the information cannot be erased. Enjoy! This is a custom request example of an advanced web app.
 
+The design hasn't been curated on purpose as I wanted to showcase the functionality.
+
 ## For it to work:
 
 - Download the Chrome extension of the Phantom wallet, create a new wallet and save the mnemonic when prompted.
